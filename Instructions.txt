@@ -1,0 +1,18 @@
+1. Install the following R-packages: 
+
+library("plotrix")
+library("rstan")     # https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
+library("shinystan")
+library("KMsurv")
+library("compeir")   # archived package, but it can be installed manually using its .tar ("Scripts" folder)
+library("JMbayes")
+library("statmod")
+
+2. "Biblio" folder: main references of this short-course.
+
+3. "Scripts" folder: all codes used in this short-course.
+
+4. "TUTORIAL" PDF file: short-course slides.
+
+
+WELCOME EVERYONE AND LET'S GO LEARN AND HAVE FUN!!!

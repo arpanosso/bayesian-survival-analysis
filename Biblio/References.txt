@@ -1,0 +1,9 @@
+Bayesian survival analysis with BUGS
+https://doi.org/10.1002/sim.8933
+
+Bayesian survival analysis with INLA
+https://doi.org/10.1002/sim.10160
+
+Bayesian statistics and modelling
+https://doi.org/10.1038/s43586-020-00001-2
+
